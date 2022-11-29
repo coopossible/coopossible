@@ -8,5 +8,3 @@ Desde 201- teniendo un gran crecimiento.
 
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=coopossible)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coopossible&layout=compact)
