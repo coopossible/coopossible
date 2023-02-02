@@ -8,3 +8,4 @@ Desde 201- teniendo un gran crecimiento.
 
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=coopossible)
+![Possible Corp GitHub stats](https://github-readme-stats.vercel.app/api?username=coopossible&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
